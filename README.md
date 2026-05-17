@@ -15,3 +15,6 @@
 1. Abra o arquivo do projeto no seu navegador.
 2. Defina a quantidade de números que deseja sortear e os limites mínimo e máximo.
 3. Se você tentar colocar dados inválidos, as travas de segurança que criei vão te avisar na hora antes de executar o script.
+
+
+𝓓𝓮𝓼𝓮𝓷𝓿𝓸𝓵𝓿𝓲𝓭𝓸 𝓹𝓸𝓻 𝓖𝓾𝓼𝓽𝓪𝓿𝓸 𝓖𝓲𝓪𝓷𝓮𝓵𝓲 (𝓢é𝓽𝓲𝓶𝓸)
