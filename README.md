@@ -17,4 +17,4 @@
 3. Se você tentar colocar dados inválidos, as travas de segurança que criei vão te avisar na hora antes de executar o script.
 
 
-𝓓𝓮𝓼𝓮𝓷𝓿𝓸𝓵𝓿𝓲𝓭𝓸 𝓹𝓸𝓻 𝓖𝓾𝓼𝓽𝓪𝓿𝓸 𝓖𝓲𝓪𝓷𝓮𝓵𝓲 (𝓢é𝓽𝓲𝓶𝓸)
+𝓓𝓮𝓼𝓮𝓷𝓿𝓸𝓵𝓿𝓲𝓭𝓸 𝓹𝓸𝓻 𝓖𝓾𝓼𝓽𝓪𝓿𝓸 𝓖𝓲𝓪𝓷𝓮𝓵𝓲 (O 𝓢é𝓽𝓲𝓶𝓸)
